@@ -1,7 +1,7 @@
 name: wenashville
 favicon: null
-layout_spectrum: 0.1231296572368592
-typography_spectrum: 0.006703824969008565
+layout_spectrum: 0.98826
+typography_spectrum: 0.74413
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#0c1417'
+    - '#b3bfb1'
+    - '#3a6a76'
+    - '#cd9a5b'
+    - '#914f2c'
   brandStrength: 0.43801802140660584
   lightness: 0.640558711020276
   saturation: 0.8686305209994316
