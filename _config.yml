@@ -1,29 +1,41 @@
-name: West End Insurance
-favicon: null
-layout_spectrum: 0.74413
-typography_spectrum: 0.74413
 title: null
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.8686305
+  brandStrength: 0.625
+  lightness: 0.6148936
   brandColors:
     - '#ffffff'
     - '#000000'
     - '#cfcfcf'
     - '#3f3f3f'
     - '#6f6f6f'
-  brandStrength: 0.625
-  lightness: 0.640558711020276
-  saturation: 0.8686305209994316
   rhythmicContrast: 0.25
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: West End Insurance
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.1489362
+layout_spectrum: 0.74413
