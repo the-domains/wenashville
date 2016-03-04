@@ -1,6 +1,6 @@
-name: wenashville
+name: West End Insurance
 favicon: null
-layout_spectrum: 0.98826
+layout_spectrum: 0.74413
 typography_spectrum: 0.74413
 title: West End Insurance
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#0c1417'
-    - '#b3bfb1'
-    - '#3a6a76'
-    - '#cd9a5b'
-    - '#914f2c'
-  brandStrength: 0.43801802140660584
+    - '#ffffff'
+    - '#000000'
+    - '#cfcfcf'
+    - '#3f3f3f'
+    - '#6f6f6f'
+  brandStrength: 0.625
   lightness: 0.640558711020276
   saturation: 0.8686305209994316
-  rhythmicContrast: 0.5052215792238712
+  rhythmicContrast: 0.25
 purpose: []
