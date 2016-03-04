@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[West End Insurance]]></title>
         <description><![CDATA[West End Insurance]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wenashville/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 21:16:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 21:21:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wenashville/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8d73ceb-8d69-4881-8998-bec6d5efbf45.jpg">]]></description>
-            <link>undefined8e9b2b99-0bc8-401d-9ddd-76a02b1ec9fe/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2e9025a-bf46-4018-8969-62f827e238a6.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/wenashville/8e9b2b99-0bc8-401d-9ddd-76a02b1ec9fe/index.html</link>
             <guid isPermaLink="false">8e9b2b99-0bc8-401d-9ddd-76a02b1ec9fe</guid>
-            <pubDate>Fri, 04 Mar 2016 21:14:40 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2016 21:21:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
